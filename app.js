@@ -9,4 +9,4 @@ const menu = [
     desc: `Green tea matcha with dairy-free milk alternatives. Choose either oat, soy or coconut milk`,
  },
 
-]
+];
