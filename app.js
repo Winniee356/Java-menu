@@ -22,6 +22,6 @@ const menu = [
    category:"brunch",
    price:7,50,
    img:"./images/vegan-pancake.png",
-   desc: `Green tea matcha tart filled with white chocolate ganache. Crust is made of buttery almond topped with cream.`,
+   desc: `Fluffy vegan pancake made with oatmilk. Topped with strawberry and blueberry. Option vegan cream and agave syrup toppings.`,
 },
 ];
