@@ -26,7 +26,7 @@ const menu = [
 },
 {
    id: 4,
-   title:"Fluffy Pancake",
+   title:"Vanilla French Toast",
    category:"brunch",
    price:7,50,
    img:"./images/vegan-pancake.png",
