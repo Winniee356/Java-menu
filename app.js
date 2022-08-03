@@ -4,9 +4,16 @@ const menu = [
     id: 1,
     title:"Matcha latte",
     category:"drinks",
-    price:4,
+    price:3,
     img:"./images/vegan-matchalatte.jpg",
     desc: `Green tea matcha with dairy-free milk alternatives. Choose either oat, soy or coconut milk`,
  },
-
+ {
+   id: 2,
+   title:"Matcha Tart",
+   category:"dessert",
+   price:5,
+   img:"./images/vegan-matchatart.jpg",
+   desc: `Green tea matcha tart filled with white chocolate ganache. Crust is made of buttery almond topped with cream.`,
+},
 ];
