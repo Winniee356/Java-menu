@@ -14,6 +14,14 @@ const menu = [
    category:"dessert",
    price:5,
    img:"./images/vegan-matchatart.jpg",
+   desc: `Green tea matcha tart filled with white chocolate ganache. Crust is made of buttery almond topped with vegan cream.`,
+},
+{
+   id: 3,
+   title:"Fluffy Pancake",
+   category:"brunch",
+   price:7,50,
+   img:"./images/vegan-pancake.png",
    desc: `Green tea matcha tart filled with white chocolate ganache. Crust is made of buttery almond topped with cream.`,
 },
 ];
