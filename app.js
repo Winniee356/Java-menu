@@ -28,8 +28,8 @@ const menu = [
    id: 4,
    title:"Vanilla French Toast",
    category:"brunch",
-   price:7,50,
-   img:"./images/vegan-pancake.png",
+   price:9,50,
+   img:"./images/vegan-frenchtoast.jpg",
    desc: `Fluffy vegan pancake made with oatmilk and vegan butter. Topped with strawberry and blueberry. Option vegan cream and agave syrup toppings.`,
 },
 ];
