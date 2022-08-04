@@ -34,7 +34,7 @@ const menu = [
 },
 {
    id: 4,
-   title:"Vanilla French Toast",
+   title:"Tofu summer rolls",
    category:"brunch",
    price:9,50,
    img:"./images/vegan-frenchtoast.jpg",
