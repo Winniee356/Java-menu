@@ -32,4 +32,12 @@ const menu = [
    img:"./images/vegan-frenchtoast.jpg",
    desc: `Golden brown vegan french toast topped with vegan ice cream. Optional toppings: vegan cream and agave syrup toppings.`,
 },
+{
+   id: 4,
+   title:"Vanilla French Toast",
+   category:"brunch",
+   price:9,50,
+   img:"./images/vegan-frenchtoast.jpg",
+   desc: `Golden brown vegan french toast topped with vegan ice cream. Optional toppings: vegan cream and agave syrup toppings.`,
+},
 ];
