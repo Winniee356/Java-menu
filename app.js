@@ -37,7 +37,7 @@ const menu = [
    title:"Tofu summer rolls",
    category:"brunch",
    price:10,50,
-   img:"./images/vegan-frenchtoast.jpg",
+   img:"./images/vegan-tofurolls.jpg",
    desc: `Golden brown vegan french toast topped with vegan ice cream. Optional toppings: vegan cream and agave syrup toppings.`,
 },
 ];
