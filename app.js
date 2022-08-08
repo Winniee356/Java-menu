@@ -36,7 +36,7 @@ const menu = [
    id: 5,
    title:"Tofu summer rolls",
    category:"brunch",
-   price:10,50,
+   price:10,
    img:"./images/vegan-tofurolls.jpg",
    desc: `Refreshng rice-paper summer rolls filled with crispy tofu, cucumbers carrots and leafy greens. This comes with a peanut sesame dipping sauce.`,
 },
