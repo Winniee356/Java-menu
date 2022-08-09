@@ -46,6 +46,6 @@ const menu = [
    category:"brunch",
    price:11,
    img:"./images/vegan-chickpeaomelet.jpg",
-   desc: `Refreshng rice-paper summer rolls filled with crispy tofu, cucumbers carrots and leafy greens. This comes with a peanut sesame dipping sauce.`,
+   desc: `High protein chickpea omelet with carrots, zuchinni and mushroom sauteed in vegan herb butter`,
 },
 ];
