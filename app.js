@@ -41,7 +41,7 @@ const menu = [
    desc: `3 Refreshng rice-paper summer rolls filled with crispy tofu, cucumbers carrots and leafy greens. This comes with a peanut sesame dipping sauce.`,
 },
 {
-   id: 5,
+   id: 6,
    title:"Chickpea omelet",
    category:"brunch",
    price:11,
