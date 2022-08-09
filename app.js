@@ -49,7 +49,7 @@ const menu = [
    desc: `High protein chickpea omelet with carrots, zuchinni and mushroom sauteed in vegan herb butter. Served with small summer salad on the side.`,
 },
 {
-   id: 6,
+   id: 7,
    title:"Chickpea omelet",
    category:"brunch",
    price:11,
