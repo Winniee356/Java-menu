@@ -42,10 +42,10 @@ const menu = [
 },
 {
    id: 5,
-   title:"Tofu summer rolls",
+   title:"Chickpea omelet",
    category:"brunch",
    price:10,
-   img:"./images/vegan-tofurolls.jpg",
+   img:"./images/vegan-chickpeaomelet.jpg",
    desc: `Refreshng rice-paper summer rolls filled with crispy tofu, cucumbers carrots and leafy greens. This comes with a peanut sesame dipping sauce.`,
 },
 ];
