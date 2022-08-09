@@ -38,7 +38,7 @@ const menu = [
    category:"brunch",
    price:11,
    img:"./images/vegan-tofurolls.jpg",
-   desc: `Refreshng rice-paper summer rolls filled with crispy tofu, cucumbers carrots and leafy greens. This comes with a peanut sesame dipping sauce.`,
+   desc: `3 Refreshng rice-paper summer rolls filled with crispy tofu, cucumbers carrots and leafy greens. This comes with a peanut sesame dipping sauce.`,
 },
 {
    id: 5,
