@@ -50,10 +50,10 @@ const menu = [
 },
 {
    id: 7,
-   title:"Banana donuts",
+   title:"Banana donut",
    category:"dessert",
    price:3,50,
    img:"./images/vegan-bananadonuts.jpg",
-   desc: `High protein chickpea omelet with carrots, zuchinni and mushroom sauteed in vegan herb butter. Served with small summer salad on the side.`,
+   desc: `Vegan banana donut with dark chocolate and vegan cream. `,
 },
 ];
