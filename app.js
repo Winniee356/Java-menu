@@ -53,7 +53,7 @@ const menu = [
    title:"Banana donuts",
    category:"dessert",
    price:3,50,
-   img:"./images/vegan-chickpeaomelet.jpg",
+   img:"./images/vegan-bananadonuts.jpg",
    desc: `High protein chickpea omelet with carrots, zuchinni and mushroom sauteed in vegan herb butter. Served with small summer salad on the side.`,
 },
 ];
