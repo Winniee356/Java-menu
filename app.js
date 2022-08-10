@@ -58,7 +58,7 @@ const menu = [
 },
 {
    id: 8,
-   title:"Banana donut",
+   title:"Orange Spiritz",
    category:"dessert",
    price:3,50,
    img:"./images/vegan-bananadonuts.jpg",
@@ -66,7 +66,7 @@ const menu = [
 },
 {
    id: 9,
-   title:"Banana donut",
+   title:"Vegan Oreo cake",
    category:"dessert",
    price:3,50,
    img:"./images/vegan-bananadonuts.jpg",
