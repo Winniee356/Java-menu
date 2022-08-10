@@ -64,4 +64,12 @@ const menu = [
    img:"./images/vegan-bananadonuts.jpg",
    desc: `Vegan banana donut with dark chocolate and vegan cream. `,
 },
+{
+   id: 9,
+   title:"Banana donut",
+   category:"dessert",
+   price:3,50,
+   img:"./images/vegan-bananadonuts.jpg",
+   desc: `Vegan banana donut with dark chocolate and vegan cream. `,
+},
 ];
