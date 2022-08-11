@@ -62,7 +62,7 @@ const menu = [
    category:"drinks",
    price:4,
    img:"./images/vegan-bananadonuts.jpg",
-   desc: `Spirit made from orange jam and sparkling lemonade. `,
+   desc: `Spirit made from orange jam and refreshing home-made sparkling lemonade. `,
 },
 {
    id: 9,
