@@ -70,6 +70,6 @@ const menu = [
    category:"dessert",
    price:3,50,
    img:"./images/vegan-bananadonuts.jpg",
-   desc: `Vegan banana donut with dark chocolate and vegan cream. `,
+   desc: `Oreo baked vegan cheesecake made from cashews nuts and dark chocolate ganache. `,
 },
 ];
