@@ -60,7 +60,7 @@ const menu = [
    id: 8,
    title:"Orange Spiritz",
    category:"drinks",
-   price:3,50,
+   price:4,
    img:"./images/vegan-bananadonuts.jpg",
    desc: `Vegan banana donut with dark chocolate and vegan cream. `,
 },
