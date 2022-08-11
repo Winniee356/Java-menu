@@ -61,7 +61,7 @@ const menu = [
    title:"Orange Spiritz",
    category:"drinks",
    price:4,
-   img:"./images/vegan-bananadonuts.jpg",
+   img:"./images/vegan-orangespiriz.jpg",
    desc: `Spirit made from orange jam and refreshing home-made sparkling lemonade. `,
 },
 {
