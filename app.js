@@ -62,7 +62,7 @@ const menu = [
    category:"drinks",
    price:4,
    img:"./images/vegan-bananadonuts.jpg",
-   desc: `Vegan banana donut with dark chocolate and vegan cream. `,
+   desc: `Spirit made from orange jam and sparkling lemonade. `,
 },
 {
    id: 9,
