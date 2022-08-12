@@ -73,3 +73,5 @@ const menu = [
    desc: `Oreo baked vegan cheesecake made from cashews nuts and dark chocolate ganache. `,
 },
 ];
+
+const sectionCenter = document.querySelector(`.section-center`);
