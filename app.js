@@ -80,7 +80,16 @@ window.addEventListener(`DOMContentLoaded`,function(){
    let displayMenu = menu.map(function(item){
       //console.log(item);
 
-   return `<h1>${item.title}</h1>`;
+   return `  <article class="menu-item">
+   <img src="images/vegan-matchalatte.jpg" class="photo" alt="menu item" />
+   <div class="item-info">
+       <header>
+           <h4>Matcha Latte</h4>
+           <h4 class="price">€4</h4>
+       </header>
+       <p class="item-text">Green tea matcha with dairy-free milk alternatives. Choose either oat, soy or coconut milk</p>
+   </div>
+</article>`;
    });
    console.log(displayMenu);
 })
