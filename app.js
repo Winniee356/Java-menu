@@ -81,7 +81,7 @@ window.addEventListener(`DOMContentLoaded`,function(){
       //console.log(item);
 
    return `  <article class="menu-item">
-   <img src="images/vegan-matchalatte.jpg" class="photo" alt="menu item" />
+   <img src=${item.img} class="photo" alt="menu item" />
    <div class="item-info">
        <header>
            <h4>Matcha Latte</h4>
