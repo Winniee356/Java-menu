@@ -87,7 +87,9 @@ window.addEventListener(`DOMContentLoaded`,function(){
            <h4>${item.title}</h4>
            <h4 class="price">€${item.price}</h4>
        </header>
-       <p class="item-text">Green tea matcha with dairy-free milk alternatives. Choose either oat, soy or coconut milk</p>
+       <p class="item-text">
+       ${item.desc}
+       </p>
    </div>
 </article>`;
    });
