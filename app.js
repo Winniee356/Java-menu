@@ -80,7 +80,7 @@ window.addEventListener(`DOMContentLoaded`,function(){
    let displayMenu = menu.map(function(item){
       //console.log(item);
 
-   return `<h1>hello world</h1>`;
+   return `<h1>${item.title}</h1>`;
    });
    console.log(displayMenu);
 })
