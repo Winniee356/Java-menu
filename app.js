@@ -85,7 +85,7 @@ window.addEventListener(`DOMContentLoaded`,function(){
    <div class="item-info">
        <header>
            <h4>${item.title}</h4>
-           <h4 class="price">€4</h4>
+           <h4 class="price">€${item.price}</h4>
        </header>
        <p class="item-text">Green tea matcha with dairy-free milk alternatives. Choose either oat, soy or coconut milk</p>
    </div>
