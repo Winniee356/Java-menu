@@ -84,7 +84,7 @@ window.addEventListener(`DOMContentLoaded`,function(){
    <img src=${item.img} class="photo" alt=${item.title} />
    <div class="item-info">
        <header>
-           <h4>Matcha Latte</h4>
+           <h4>${item.title}</h4>
            <h4 class="price">€4</h4>
        </header>
        <p class="item-text">Green tea matcha with dairy-free milk alternatives. Choose either oat, soy or coconut milk</p>
