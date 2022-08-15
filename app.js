@@ -81,6 +81,6 @@ window.addEventListener(`DOMContentLoaded`,function(){
       console.log(item);
 
       return <h1>${item.title}</h1>;
-   })
+   });
    console.log(displayMenu);
 })
