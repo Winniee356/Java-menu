@@ -95,4 +95,25 @@ window.addEventListener(`DOMContentLoaded`,function(){
    });
    displayMenu = displayMenu.join("");
    sectionCenter.innerHTML = displayMenu;
-})
+});
+
+function displayMenuItems(menuItems) {
+   let displayMenu = menu.map(function(item){
+      //console.log(item);
+
+   return `  <article class="menu-item">
+   <img src=${item.img} class="photo" alt=${item.title} />
+   <div class="item-info">
+       <header>
+           <h4>${item.title}</h4>
+           <h4 class="price">€${item.price}</h4>
+       </header>
+       <p class="item-text">
+       ${item.desc}
+       </p>
+   </div>
+</article>`;
+   });
+   displayMenu = displayMenu.join("");
+   sectionCenter.innerHTML = displayMenu;
+}
