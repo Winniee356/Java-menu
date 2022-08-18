@@ -93,5 +93,6 @@ window.addEventListener(`DOMContentLoaded`,function(){
    </div>
 </article>`;
    });
+   displayMenu = displayMenu.join("");
    console.log(displayMenu);
 })
