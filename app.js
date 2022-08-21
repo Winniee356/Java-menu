@@ -73,8 +73,8 @@ const menu = [
    desc: `Oreo baked vegan cheesecake made from cashews nuts and dark chocolate ganache. `,
 },
 {
-   id: 9,
-   title:"Vegan Oreo cake",
+   id: 10,
+   title:"Vegan Strawberry Milk",
    category:"dessert",
    price:3.50,
    img:"./images/vegan-oreocake.jpg",
