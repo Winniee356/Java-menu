@@ -78,7 +78,7 @@ const menu = [
    category:"drinks",
    price:2.50,
    img:"./images/vegan-strawberrymilk.jpg",
-   desc: `Oreo baked vegan cheesecake made from cashews nuts and dark chocolate ganache. `,
+   desc: `Fresh strawberry jam shaken with oatmilk and a dash of vanilla extract. Perfect afternoon drink with a slice of cake. `,
 },
 ];
 
