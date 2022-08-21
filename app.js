@@ -76,7 +76,7 @@ const menu = [
    id: 10,
    title:"Vegan Strawberry Milk",
    category:"drinks",
-   price:3.50,
+   price:2.50,
    img:"./images/vegan-oreocake.jpg",
    desc: `Oreo baked vegan cheesecake made from cashews nuts and dark chocolate ganache. `,
 },
