@@ -90,6 +90,12 @@ window.addEventListener(`DOMContentLoaded`,function(){
   displayMenuItems(menu);
 });
 
+//filter items
+
+
+
+
+
 function displayMenuItems(menuItems) {
    let displayMenu = menuItems.map(function(item){
       //console.log(item);
