@@ -3,7 +3,7 @@ const menu = [
  {
     id: 1,
     title:"Matcha latte",
-    category:"drinks",
+    category:"Drinks",
     price:3,
     img:"./images/vegan-matchalatte.jpg",
     desc: `Green tea matcha with dairy-free milk alternatives. Choose either oat, soy or coconut milk`,
@@ -11,7 +11,7 @@ const menu = [
  {
    id: 2,
    title:"Matcha Tart",
-   category:"dessert",
+   category:"Dessert",
    price:5,
    img:"./images/vegan-matchatart.jpg",
    desc: `Green tea matcha tart filled with white chocolate ganache. Crust is made of buttery almond topped with vegan cream.`,
@@ -19,7 +19,7 @@ const menu = [
 {
    id: 3,
    title:"Fluffy Pancake",
-   category:"brunch",
+   category:"Brunch",
    price:7.50,
    img:"./images/vegan-pancake.png",
    desc: `Fluffy vegan pancake made with oatmilk and vegan butter. Topped with strawberry and blueberry. Option vegan cream and agave syrup toppings.`,
@@ -27,7 +27,7 @@ const menu = [
 {
    id: 4,
    title:"Vanilla French Toast",
-   category:"brunch",
+   category:"Brunch",
    price:9.50,
    img:"./images/vegan-frenchtoast.jpg",
    desc: `Golden brown vegan french toast topped with vegan ice cream. Optional toppings: vegan cream and agave syrup toppings.`,
@@ -35,7 +35,7 @@ const menu = [
 {
    id: 5,
    title:"Tofu summer rolls",
-   category:"brunch",
+   category:"Brunch",
    price:11,
    img:"./images/vegan-tofurolls.jpg",
    desc: `Refreshng rice-paper summer rolls filled with crispy tofu, cucumbers carrots and leafy greens. This comes with a peanut sesame dipping sauce.`,
@@ -43,7 +43,7 @@ const menu = [
 {
    id: 6,
    title:"Chickpea omelet",
-   category:"brunch",
+   category:"Brunch",
    price:11,
    img:"./images/vegan-chickpeaomelet.jpg",
    desc: `High protein chickpea omelet with carrots, zuchinni and mushroom sauteed in vegan herb butter. Served with small summer salad on the side.`,
@@ -51,7 +51,7 @@ const menu = [
 {
    id: 7,
    title:"Banana donut",
-   category:"dessert",
+   category:"Dessert",
    price:3.50,
    img:"./images/vegan-bananadonuts.jpg",
    desc: `Vegan banana donut with dark chocolate and vegan cream. `,
@@ -59,7 +59,7 @@ const menu = [
 {
    id: 8,
    title:"Orange Spiritz",
-   category:"drinks",
+   category:"Drinks",
    price:4,
    img:"./images/vegan-orangespiriz.jpg",
    desc: `Spirit made from orange jam and refreshing home-made sparkling lemonade. `,
@@ -67,7 +67,7 @@ const menu = [
 {
    id: 9,
    title:"Vegan Oreo cake",
-   category:"dessert",
+   category:"Dessert",
    price:3.50,
    img:"./images/vegan-oreocake.jpg",
    desc: `Oreo baked vegan cheesecake made from cashews nuts and dark chocolate ganache. `,
@@ -75,7 +75,7 @@ const menu = [
 {
    id: 10,
    title:"Vegan Strawberry Milk",
-   category:"drinks",
+   category:"Drinks",
    price:2.50,
    img:"./images/vegan-strawberrymilk.jpg",
    desc: `Fresh organic strawberry jam handmade with oatmilk and a dash of vanilla extract. Perfect afternoon drink with a slice of cake. `,
