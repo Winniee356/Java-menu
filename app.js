@@ -85,7 +85,7 @@ const menu = [
 const sectionCenter = document.querySelector(`.section-center`);
 const filterBtns = document.querySelectorAll('.filter-btn');
 
-
+// Load items
 window.addEventListener(`DOMContentLoaded`,function(){
   displayMenuItems(menu);
 });
