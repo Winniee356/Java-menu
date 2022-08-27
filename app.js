@@ -70,7 +70,7 @@ const menu = [
    category:"Dessert",
    price:3.50,
    img:"./images/vegan-oreocake.jpg",
-   desc: `Oreo baked vegan cheesecake made from cashews nuts and dark chocolate ganache. `,
+   desc: `The Oreo baked vegan cheesecake is made from crushed oreo, cashews nuts base and dark chocolate ganache filling. `,
 },
 {
    id: 10,
