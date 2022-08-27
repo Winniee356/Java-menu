@@ -78,7 +78,7 @@ const menu = [
    category:"Drinks",
    price:2.50,
    img:"./images/vegan-strawberrymilk.jpg",
-   desc: `Fresh organic strawberry jam handmade with oatmilk and a dash of vanilla extract. Perfect afternoon drink with a slice of cake. `,
+   desc: `The vegan strawberry milk is made of fresh organic strawberry jam handmade with oatmilk and a dash of vanilla extract. Perfect afternoon drink with a slice of cake. `,
 },
 ];
 
