@@ -54,7 +54,7 @@ const menu = [
    category:"Dessert",
    price:3.50,
    img:"./images/vegan-bananadonuts.jpg",
-   desc: `Vegan banana donut with dark chocolate and vegan cream. `,
+   desc: `Vegan banana donut is made with ripe banana, dark chocolate and vegan cream. `,
 },
 {
    id: 8,
