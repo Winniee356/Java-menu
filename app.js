@@ -62,7 +62,7 @@ const menu = [
    category:"Drinks",
    price:4,
    img:"./images/vegan-orangespiriz.jpg",
-   desc: `Spirit made from orange jam and refreshing home-made sparkling lemonade. `,
+   desc: `The Orange Spirit is made from home-made orange jam and refreshing home-made sparkling lemonade. `,
 },
 {
    id: 9,
