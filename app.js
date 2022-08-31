@@ -11,7 +11,7 @@ const menu = [
  {
    id: 2,
    title:"Matcha Tart",
-   category:"Dessert",
+   category:"Desserts",
    price:5,
    img:"./images/vegan-matchatart.jpg",
    desc: `Green tea matcha tart filled with white chocolate ganache. Crust is made of buttery almond topped with vegan cream.`,
@@ -51,7 +51,7 @@ const menu = [
 {
    id: 7,
    title:"Banana donut",
-   category:"Dessert",
+   category:"Desserts",
    price:3.50,
    img:"./images/vegan-bananadonuts.jpg",
    desc: `Vegan banana donut is made with ripe banana, dark chocolate and vegan cream. `,
@@ -67,7 +67,7 @@ const menu = [
 {
    id: 9,
    title:"Vegan Oreo cake",
-   category:"Dessert",
+   category:"Desserts",
    price:3.50,
    img:"./images/vegan-oreocake.jpg",
    desc: `The Oreo baked vegan cheesecake is made from crushed oreo, cashews nuts base and dark chocolate ganache filling. `,
