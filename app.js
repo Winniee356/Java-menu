@@ -98,9 +98,13 @@ filterBtns.forEach(function(btn){
       if (menuItem.category === category) {
          return menuItem;
       }
-     
      });
-     console.log(menuCatergory);
+     if (category === 'all'){
+      displayMenuItems(menu)
+     }
+     else {
+      displayMenuItems(menuCatergory);
+     }
    });
 });
 
