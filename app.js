@@ -89,7 +89,9 @@ const filterBtns = document.querySelectorAll('.filter-btn');
 window.addEventListener(`DOMContentLoaded`,function(){
   displayMenuItems(menu);
   const catergories = menu.reduce(function(values,item){
-
+      if(!values.includes(item.catergories)) {
+         values.push(items.category);
+      }
    return values
   },['All']);
   console.log(catergories);
