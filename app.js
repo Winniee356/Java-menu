@@ -90,7 +90,7 @@ window.addEventListener(`DOMContentLoaded`,function(){
   displayMenuItems(menu);
   const catergories = menu.reduce(function(item){
    return item.category;
-  });
+  },['All']);
   console.log(catergories);
 });
 
