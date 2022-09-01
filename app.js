@@ -88,7 +88,7 @@ const filterBtns = document.querySelectorAll('.filter-btn');
 // Load items
 window.addEventListener(`DOMContentLoaded`,function(){
   displayMenuItems(menu);
-  const catergories = menu.map(function(item){
+  const catergories = menu.reduce(function(item){
    return item.category;
   });
   console.log(catergories);
