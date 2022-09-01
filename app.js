@@ -94,7 +94,9 @@ window.addEventListener(`DOMContentLoaded`,function(){
       }
    return values
   },['All']);
-  console.log(catergories);
+  const categoryBtns = catergories.map(function(category){
+   
+  })
 });
 
 //filter items
