@@ -95,7 +95,7 @@ window.addEventListener(`DOMContentLoaded`,function(){
    return values
   },['All']);
   const categoryBtns = catergories.map(function(category){
-   return    '<button class="filter-btn" type="button" data-id=${category}>${catergory}</button>'
+   return  `<button class="filter-btn" type="button" data-id=${category}>${catergory}</button>`;
   })
 });
 
