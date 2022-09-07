@@ -116,6 +116,7 @@ filterBtns.forEach(function(btn){
      else {
       displayMenuItems(menuCatergory);
      }
+     console.log(menuCatergory);
    });
 });
 
