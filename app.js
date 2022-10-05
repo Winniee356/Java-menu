@@ -6,7 +6,7 @@ const menu = [
     category:"Drinks",
     price:3,
     img:"./images/vegan-matchalatte.jpg",
-    desc: `High quality matcha with dairy-free milk alternatives. Choose either oat, soy or coconut milk`,
+    desc: `High quality matcha with dairy-free milk alternatives. Choose either oat, soy, almond or coconut milk`,
  },
  {
    id: 2,
