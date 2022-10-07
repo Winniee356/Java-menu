@@ -42,7 +42,7 @@ const menu = [
 },
 {
    id: 6,
-   title:"Chickpea omelet",
+   title:"Chickpea Omelet",
    category:"Brunch",
    price:11,
    img:"./images/vegan-chickpeaomelet.jpg",
