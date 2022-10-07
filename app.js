@@ -66,7 +66,7 @@ const menu = [
 },
 {
    id: 9,
-   title:"Vegan Oreo cake",
+   title:"Vegan Oreo Cake",
    category:"Desserts",
    price:3.50,
    img:"./images/vegan-oreocake.jpg",
