@@ -34,7 +34,7 @@ const menu = [
 },
 {
    id: 5,
-   title:"Tofu summer rolls",
+   title:"Tofu Summer Rolls",
    category:"Brunch",
    price:11,
    img:"./images/vegan-tofurolls.jpg",
