@@ -2,7 +2,7 @@
 const menu = [
  {
     id: 1,
-    title:"Matcha latte",
+    title:"Matcha Latte",
     category:"Drinks",
     price:3,
     img:"./images/vegan-matchalatte.jpg",
