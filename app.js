@@ -20,7 +20,7 @@ const menu = [
    id: 3,
    title:"Fluffy Pancake",
    category:"Brunch",
-   price:7.50,
+   price:10,
    img:"./images/vegan-pancake.png",
    desc: `Fluffy pancakes made with oatmilk and vegan butter. Topped with strawberry and blueberry. Optional toppings: vegan cream and agave syrup.`,
 },
