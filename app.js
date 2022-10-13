@@ -12,7 +12,7 @@ const menu = [
    id: 2,
    title:"Matcha Tart",
    category:"Desserts",
-   price:5,
+   price:4.50,
    img:"./images/vegan-matchatart.jpg",
    desc: `Green tea matcha tart filled with white chocolate ganache. Crust is made of buttery almond topped with vegan cream.`,
 },
