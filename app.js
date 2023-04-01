@@ -82,7 +82,7 @@ const menu = [
 },
 {
    id: 11,
-   title:"Vegan Strawberry Milk",
+   title:"Mango Crumble Tart",
    category:"Drinks",
    price:2.50,
    img:"./images/vegan-strawberrymilk.jpg",
