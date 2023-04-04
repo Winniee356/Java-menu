@@ -90,7 +90,7 @@ const menu = [
 },
 {
    id: 12,
-   title:"Blueberry Cider Tea",
+   title:"Blueberry Cider IceTea",
    category:"Drinks",
    price:2.50,
    img:"./images/vegan-strawberrymilk.jpg",
