@@ -84,7 +84,7 @@ const menu = [
    id: 11,
    title:"Mango Crumble Tart",
    category:"Desserts",
-   price:2.50,
+   price:4.50,
    img:"./images/vegan-strawberrymilk.jpg",
    desc: `Fresh Vegan strawberry milk is made of fresh organic strawberry jam handmade with oatmilk and a dash of vanilla extract. Perfect afternoon pairing with a slice of cake. `,
 },
