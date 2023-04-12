@@ -86,7 +86,7 @@ const menu = [
    category:"Desserts",
    price:4.50,
    img:"./images/vegan-strawberrymilk.jpg",
-   desc: `Fresh Mango crumble with vegan creme. `,
+   desc: `Fresh Mango crumble made with vegan creme and shortbread dough. `,
 },
 {
    id: 12,
