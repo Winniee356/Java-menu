@@ -94,7 +94,7 @@ const menu = [
    category:"Drinks",
    price:2.50,
    img:"./images/vegan-strawberrymilk.jpg",
-   desc: `Fresh home-made cider infused with blueberry jam. Great paring with fruit tarts and brunch menu. `,
+   desc: `Fresh ice-tea cider infused with homemade blueberry jam. Great paring with fruit tarts and brunch menu. `,
 },
 ];
 
