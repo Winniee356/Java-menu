@@ -30,7 +30,7 @@ const menu = [
    category:"Brunch",
    price:9.50,
    img:"./images/vegan-frenchtoast.jpg",
-   desc: `Vegan french toast toasted golden brown topped with vegan ice cream. Optional toppings: vegan cream and agave syrup toppings.`,
+   desc: `Vegan french toast bread toasted golden brown topped with vegan ice cream and fruits. Optional toppings: vegan cream and agave syrup toppings.`,
 },
 {
    id: 5,
