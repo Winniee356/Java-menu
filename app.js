@@ -50,7 +50,7 @@ const menu = [
 },
 {
    id: 7,
-   title:"Banana Donut",
+   title:"Banana Donuts",
    category:"Desserts",
    price:3.50,
    img:"./images/vegan-bananadonuts.jpg",
